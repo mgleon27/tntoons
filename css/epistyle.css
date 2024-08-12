@@ -1,0 +1,190 @@
+body
+{
+    background-color: rgb(59, 19, 105);
+}
+
+#top-div
+{
+    width: 100%;
+    height: 100px;
+    margin-top: 28px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(79, 220, 255); 
+    border-radius: 30px; 
+    margin-bottom: 60px;
+}
+
+.button-top
+{
+    width:130px;
+    float: right;
+    border-radius: 20px;
+    padding: 6px;
+    background-color: rgb(88, 21, 165);
+    border: 3px solid white;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    cursor: pointer;
+    margin-top: 27px;
+    margin-right: 35px;
+}
+
+#logo
+{
+    width:103px;
+    height: 73px;
+    padding: 7px;
+    margin-left: 5.5%;
+    border-radius: 18px;
+    margin-top: 6px;
+}
+
+.link
+{
+    text-decoration: none;
+    color: white;  
+}
+
+
+.heading
+{
+    color: white;
+    border-left: 7px solid rgb(34, 167, 255);
+    margin-left: 36px;
+    margin-top: 40px;
+    padding-left: 13px;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-weight: 500;
+    font-size: 50px;
+}   
+
+
+/* scroll */
+
+
+.scroll
+{
+    background-color: transparent;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+.image
+{
+    height: 310px;
+    width: 420px;
+    padding: 20px;
+    border-radius: 40px;
+}
+
+.footer
+{
+    height: 200px;
+    width: 100%;
+    background-color: transparent;
+}
+
+.head
+{
+    color: white;
+    font-size: 70px;
+    margin-left: 50px;
+    margin-top: 90px;
+    margin-bottom: 40px;
+}
+
+.episode-video
+{
+    width: 75%;
+    margin-left: 12.5%;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    border: 10px solid rgb(54, 214, 81);
+}
+
+.text1
+{
+    color: white;
+    font-size: 50px;
+    margin-left: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.episode-men
+{
+    color: rgb(67, 212, 248);
+    font-size: 48px;
+    margin-top: -20px;
+    margin-left: 53px;
+}
+
+.content
+{
+    color: white;
+    text-align: center;
+    margin-top: 85px;
+    padding-left:20px;
+    padding-right: 20px;
+    margin-bottom: 65px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.seasons1
+{
+    width: 370px;
+    height: 100;
+    font-size: 40px;
+    color: white;
+    background-color:rgb(79, 49, 112);
+    border: none;
+    border-radius: 15px;
+    border: 1px solid gray;
+    float: left;
+    margin-left: 85px;
+    display: inline-block;
+    margin-top: 50px;
+    text-transform: capitalize;
+    clear: both;
+}
+
+.seasons2
+{
+    width: 370px;
+    height: 100;
+    font-size: 40px;
+    color: white;
+    background-color:rgb(79, 49, 112);
+    border: none;
+    border-radius: 15px;
+    border: 1px solid gray;
+    float: right;
+    margin-right: 85px;
+    margin-top: 50px;
+}
+
